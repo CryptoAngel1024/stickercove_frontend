@@ -1,0 +1,2 @@
+export const GA_TRACKING_ID = "G-B56XKZFSPT";
+export const CONVERSION_TRACKING_ID = "AW-314966559";
